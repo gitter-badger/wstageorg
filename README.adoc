@@ -1,0 +1,3 @@
+= wstageorg
+
+Tool zur Organisation der ch/open workshoptage.
