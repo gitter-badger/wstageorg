@@ -1,3 +1,5 @@
 = wstageorg
 
+image:https://badges.gitter.im/ollin/wstageorg.svg[link="https://gitter.im/ollin/wstageorg?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
+
 Tool zur Organisation der ch/open workshoptage.
