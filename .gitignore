@@ -122,5 +122,4 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-src/main/kotlin/
 stage-080-aat/
